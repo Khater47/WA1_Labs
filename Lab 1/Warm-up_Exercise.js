@@ -1,3 +1,5 @@
+'use strict'
+
 strings = ['this', 'is', 'an', 'array', 'of', 'strings', 'a', 'way', 'to', 'test'];
 
 for (const string of strings) {
